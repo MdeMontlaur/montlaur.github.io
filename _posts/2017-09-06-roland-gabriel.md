@@ -2,7 +2,7 @@
 layout: post
 title: Roland Gabriel
 auteur: Michael de Montlaur
-category: Divers
+category: Guerre
 active-item: blog
 
 picture: /photos/wordpress/Personality-193x300.jpg
